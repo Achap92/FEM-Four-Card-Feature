@@ -1,10 +1,12 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AGAA,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,qBAAqB;EAClC,SAAS,EAAE,IAAI;CAKlB;;AAJG,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EAHxC,AAAA,IAAI,CAAC;IAIG,gBAAgB,EFCN,OAAO;GEExB;;;ACPD,AAAA,CAAC,EAAE,CAAC,AAAA,MAAM,EAAE,CAAC,AAAA,OAAO,CAAC;EACjB,UAAU,EAAE,UAAU;CACzB",
     "sources": [
         "style.scss",
         "_colors.scss",
-        "_fonts.scss"
+        "_fonts.scss",
+        "_homepage.scss",
+        "_global.scss"
     ],
     "names": [],
     "file": "style.css"

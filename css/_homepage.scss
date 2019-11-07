@@ -1,0 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    @media screen and (min-width: 1024px) {
+        background-color: $neutralGrayBlue;
+    }
+
+}
