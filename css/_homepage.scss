@@ -1,8 +1,30 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
+    line-height: 1;
+
     @media screen and (min-width: 1024px) {
         background-color: $neutralGrayBlue;
     }
 
+}
+
+.topText {
+    font-weight: 200;
+    text-align: center;
+    margin: 45px 0px 0px 0px;
+}
+
+.bottomText {
+    font-weight: 600;
+    text-align: center;
+}
+
+.missionStatement {
+    font-weight: 200;
+    text-align: center;
+}
+
+.box1 {
+    background: #ffffff
 }
